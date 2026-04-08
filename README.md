@@ -159,6 +159,9 @@ This project demonstrates that:
 
 ## ▶️ How to Run
 
+### 1. Initialize project
+
 ```bash
-pip install transformers sentence-transformers sklearn umap-learn matplotlib datasets
+uv init
+uv sync
 ```
